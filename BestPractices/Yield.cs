@@ -29,6 +29,7 @@ namespace BestPractices_Yieldreturn
 
 /*c# BestPractice
  * Use yield whenever you can:
+ * https://medium.com/bytehide/senior-c-developer-shows-5-tips-to-master-your-c-level-a03b2619358b
 https://www.linkedin.com/posts/djokic-stefan_dotnet-dotnetdeveloper-softwareengineer-activity-6986260323167023104-nhCH/?utm_source=share&utm_medium=member_desktop
 developers usually use temporary variables to store collection elements when using loops to create a new collection of elements.
 
