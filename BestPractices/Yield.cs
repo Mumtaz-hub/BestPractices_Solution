@@ -6,9 +6,9 @@ using System.Threading.Tasks;
 
 namespace BestPractices_Yieldreturn
 {
-    public class Use_Yield_Return
+    public static class Yield
     {
-        public void DisplyNumbers()
+        public static void DisplyNumbers()
         {
             foreach (int number in GenerateNumbers())
             {
@@ -16,7 +16,7 @@ namespace BestPractices_Yieldreturn
             }
         }
 
-        public IEnumerable<int> GenerateNumbers()
+        public static IEnumerable<int> GenerateNumbers()
         {
             yield return 1;
             yield return 2;
