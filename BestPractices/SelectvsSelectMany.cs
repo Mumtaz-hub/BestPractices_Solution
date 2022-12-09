@@ -64,6 +64,7 @@ and you want to work with the individual elements of the nested collections as i
 For example, you could use SelectMany() to take a collection of lists of strings and flatten it into a single collection of strings.
 
 https://medium.com/bytehide/senior-c-developer-shows-5-tips-to-master-your-c-level-a03b2619358b
+https://www.linkedin.com/posts/djokic-stefan_softwareengineer-dotnet-softwaredevelopment-activity-6997888393422483458-n1e1/?utm_source=share&utm_medium=member_desktop
 The client has requested all the technologies that your employees know.
 
 In the code, we have a class Employee with the name of the employee and a list of technologies he knows how to work:
